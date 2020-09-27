@@ -1,2 +1,2 @@
 # LaDDiBrar
-Welcome to my private repo nigga!
+Welcome to my private repo
