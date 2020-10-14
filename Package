@@ -1,0 +1,10 @@
+Package: com.github.LaDDiBrAr.bestbadge
+Section: Theme
+Maintainer: LaDDiBrAr
+Architecture: iphoneos-arm
+Version:1.0
+Depends:
+Description: fabulous masks Made by Laddi Brar Specially for n95 Must follow on Twitter @LaDDiBrAr619 for updates
+Name: bestbadge
+Depiction: https://github.com/package/com.github.bestbadge
+Author:LaDDiBrAr 
